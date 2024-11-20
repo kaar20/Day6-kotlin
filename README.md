@@ -1,4 +1,4 @@
 # Day6-kotlin   -->Captain Game 
 
 
-![Screenshot_20241120_135305](https://github.com/user-attachments/assets/d4d40284-5710-481f-8746-558b8f01a808)
+![Screenshot_20241120_135517](https://github.com/user-attachments/assets/5aa87fdb-1ea0-446f-a1ca-f694d4470f1e)
